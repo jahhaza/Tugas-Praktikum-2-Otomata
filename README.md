@@ -10,7 +10,8 @@ Hasil Jawaban Tugas Praktikum Mata Kuliah Otomata oleh Kelompok 12
 |   [Mahirah Yasmin Aulia Mawahib](https://github.com/mahirahyam) 			        | 5025241095 |
 
 
-[Soal Praktikum](https://github.com/jahhaza/Tugas-Praktikum-2-Otomata/blob/main/soal_praktikum2_otomata.jpeg)
+### Soal Praktikum
+![image](soal_praktikum2_otomata.jpeg)
 
 ### Source Code
 
