@@ -14,7 +14,7 @@ Hasil Jawaban Tugas Praktikum Mata Kuliah Otomata oleh Kelompok 12
 ![image](soal_praktikum2_otomata.jpeg)
 
 ### Kode Program
-[SourceCode](#https://github.com/jahhaza/Tugas-Praktikum-2-Otomata/blob/main/praktikumotomata2.py)
+[SourceCode](https://github.com/jahhaza/Tugas-Praktikum-2-Otomata/blob/main/praktikumotomata2.py)
 
 ### Analisis Program
 
