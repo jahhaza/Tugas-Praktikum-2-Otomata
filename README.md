@@ -1,4 +1,4 @@
-# Tugas Praktikum Kelompok 12
+# Tugas Praktikum 2 Kelompok 12
 
 Hasil Jawaban Tugas Praktikum Mata Kuliah Otomata oleh Kelompok 12
 
